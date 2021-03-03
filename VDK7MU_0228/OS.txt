@@ -1,0 +1,31 @@
+Sysinternals Process Explorer
+Lényegében egy okosabb feladatkezelő
+A felső sorban a CPU, memória és I/O kihasználtság grafikonját látjuk. A középső nagy részen a folyamatok listája látható. Az alsó részen a kiválasztott folyamathoz tartozó leírókat vagy
+dll-eket tudjuk megnézni
+
+Process Monitor
+A Process Monitor segítségével a fájl és rendszerleíró adatbázis hozzáféréseket lehet megnézni valós időben. Ha nem futtatunk semmit a rendszerben, akkor is rengeteg háttérművelet zajlik, 
+így érdemes mindig szűrni a rögzített műveleteket a Filter (Ctrl + L) segítségével.
+
+Autoruns
+Az Autoruns, mint olvashatjuk, a Windows rendszerek automatikusan induló folyamatait kezeli.
+
+TPCview
+Segítségével a hálózati tevékenységeket tudjuk megfigyelni.
+
+LogonSession
+
+
+RAMMap
+A RAMMap segítségével ugyanis pontosan felderíthetővé válik, hogy a Windows pontosan milyen komponenseknek és mennyi memóriát foglal le, illetve, hogy a legfoglalás milyen szempontok
+szerint történik.
+
+Disk2vhd
+A Disk2vhd segítségével virtuális merevlemez-meghajtót (VHD) hozhat létre egy fizikai gépen, még akkor is, ha a gép a kötet pillanatfelvétel technológiával működik. Ez a kis segédprogram 
+nem igényel telepítést, és ha szükséges, futtathatja azt flash meghajtóról. Csak nyissa meg a Disk2vhd mappát, és futtassa a futtatható fájlt.
+
+CPU-Z
+Nem csak a processzorról, hanem a rendszer más elemeiről is megtudhatunk információkat.
+
+GPU-Z
+A GPU-Z, amennyiben új videokártyát szerzünk be, vagy a meglévőről szeretnénk a lehető legtöbb és legpontosabb információt kinyerni.
